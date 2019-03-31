@@ -25,7 +25,7 @@ Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o
 - [Maanvitha Gongalla](https://github.com/maanvithag)
 - [Yiwen Zhang](https://github.com/yiwenzh29)  
 - [Umang Mehta](https://umangrmehta.github.io/)
-- Prashant Modak
+- [Prashant Modak](https://pkmsoftpro.github.io/)
 - [Shreejith Panicker](https://skpanick.github.io/)
 - Aarnav  
 - Abhishek Babuji  
